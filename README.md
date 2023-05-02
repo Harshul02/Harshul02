@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN technology** and **DSA**
 
-- 📫 How to reach me : [📧](harshuljain2002@gmail.com) 
+- 📫 How to reach me : <a href="mailto:harshuljain2002@gmail.com">📧 </a>
 
 - 👨‍💻 Check out my [Portfolio](https://harshul02.github.io/Portfolio/)
 
