@@ -29,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshul02&show_icons=true&locale=en&theme=tokyonight" alt="harshul02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshul02&theme=tokyonight" alt="harshul02" /></p>
-
+<p><img align="center" src="https://stats.quine.sh/Harshul/github?theme=dark" alt="harshul02" /></p>
+<!-- [![Harshul's GitHub | Stats](https://stats.quine.sh/Harshul/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshul) -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshuljain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshuljain" /></a></p><br><br>
