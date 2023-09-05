@@ -5,7 +5,7 @@
 
 <br />
 
-- 🔭 I’m a 3rd year B-Tech-CSE student
+- 🔭 I’m a 4th year B-Tech-CSE student
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
